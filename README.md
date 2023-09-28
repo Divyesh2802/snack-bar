@@ -1,1 +1,1 @@
-# snack-bar
+# toast-notification-bar
